@@ -1,3 +1,5 @@
+### Beautiful Visuals BELOW
+
 # Business Problem:
 * Business (Audience 1): I want to expand my business to other locations in Seattle. However, I do not know what is the best location. Can you find other locations that fit our customer's price range, expectations, and interests?
 * Individual (Audience 2): I want to work in Seattle, but I don't want to commit a large portion of my salary to rent. Can you find a similar neighborhood to my current while not compromising on my budget, needs, and interests?
