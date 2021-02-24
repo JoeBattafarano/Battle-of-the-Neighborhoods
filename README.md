@@ -14,6 +14,5 @@
  * Features: Venue Frequencies, Price Tier Frequencies, Average Venue Rating per Price Tier
  
  ## For more information on Data Understanding, Data Prepartion, Evaluation, and Beautiful Visuals please see the .ipynb files
- 
- 
- 
+![alt text](https://github.com/JoeBattafarano/Battle-of-the-Neighborhoods/blob/master/Map-of-Seattle.PNG)
+![alt text](https://github.com/JoeBattafarano/Battle-of-the-Neighborhoods/blob/master/4-Cluster-Silhouette-Plot.PNG)
